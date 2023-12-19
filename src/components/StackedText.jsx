@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Comp1({text , subtext}) {
+export default function StackedText({text , subtext}) {
   return (
       <>
       <div>
